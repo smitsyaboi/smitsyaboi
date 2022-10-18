@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smitsyaboi
 - 👀 I’m interested in ...Crypto, Gaming, Youtube
-- 🌱 I’m currently learning ...Java, JavaScript, mySQL
+- 🌱 I’m currently learning ...C#, PHP, Java
 - 💞️ I’m looking to collaborate on ... blockchain
 - 📫 How to reach me ...  
 
