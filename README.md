@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Crypto, Gaming, Youtube
 - 🌱 I’m currently learning ...C#, PHP, Java
 - 💞️ I’m looking to collaborate on ... blockchain
-- 📫 How to reach me ...  
+- 📫 How to reach me joshua@threehippies.com 
 
 <!---
 smitsyaboi/smitsyaboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
