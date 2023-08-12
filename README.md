@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smitsyaboi
 - 👀 I’m interested in ...Crypto, Gaming, Youtube
-- 🌱 I’m currently learning ...React, Kotlin, TS
+- 🌱 I’m currently learning ...React, Kotlin, TS, PL/pgSQL
 - 💞️ I’m looking to collaborate on ... blockchain
 - 📫 How to reach me joshua@threehippies.com 
 
